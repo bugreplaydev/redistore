@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gomodule/redigo/redis"
+	"github.com/bugreplaydev/redigo/redis"
 	"github.com/gorilla/securecookie"
 	"github.com/gorilla/sessions"
 )
